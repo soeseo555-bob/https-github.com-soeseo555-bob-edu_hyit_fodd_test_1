@@ -1,0 +1,6 @@
+{
+  "name": "맛있는 레시피 - 한국 음식 & 요리 스크랩",
+  "description": "한국 음식 및 다양한 요리 탐색, 볶음밥 등 맞춤 검색, 스크랩, 상세 레시피 안내 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
